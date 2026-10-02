@@ -4,7 +4,7 @@ function setup() {
   textSize(20);
   noLoop();
 }
-x = 25;
+var x = 25;
 function draw() {
   background(0); // clear background
   fill(x/3,90,90)
